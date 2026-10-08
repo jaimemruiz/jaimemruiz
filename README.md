@@ -8,7 +8,7 @@ Estudiante de Ingeniería Informática enfocado en desarrollo de software, tecno
 - 🔭 Actualmente trabajando en: **HAPPA**
 - 🌱 Aprendiendo y mejorando en: **Ciberseguridad**
 - 💬 Pregúntame sobre: **JavaScript, desarrollo web, Linux y administración de servidores**
-- 📫 Cómo contactarme: **jaimontavez@gmail.com** o a través de [LinkedIn]((https://www.linkedin.com/in/jaime-mont%C3%A1vez-ruiz-8b6584b5))
+- 📫 Cómo contactarme: **jaimontavez@gmail.com** o a través de [LinkedIn](https://www.linkedin.com/in/jaimemruiz-dev)
 
 ---
 
