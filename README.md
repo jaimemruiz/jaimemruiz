@@ -33,6 +33,6 @@ Estudiante de Ingeniería Informática enfocado en desarrollo de software, tecno
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimemruiz&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimemruiz&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
